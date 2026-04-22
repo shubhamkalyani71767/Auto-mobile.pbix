@@ -67,9 +67,8 @@ The dataset includes:
 
  📷 Dashboard Preview
 
-(Add your dashboard screenshot here)
+[Dashboard Preview](Auto mobile.png)
 
----
 
  🚀 Future Improvements
 
